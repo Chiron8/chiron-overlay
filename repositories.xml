@@ -1,0 +1,14 @@
+<?xml version"1.0" ?>
+<repositories version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>chiron-overlay</name>
+        <description lang="en">My gentoo overlay for personal projects</description>
+        <homepage>https://github.com/Chiron8/chiron-overlay</homepage>
+        <owner type="person">
+            <name>Chiron Horwood</name>
+            <email>chiron.dev8@gmail.com</email>
+        </owner>
+        <source type="git">git://github.com/Chiron8/chiron-overlay.git</source>
+        <feed>https://github.com/Chiron8/chiron-overlay/commits/master.atom</feed>
+    </repo>
+</repositories>
